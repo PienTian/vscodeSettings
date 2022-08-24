@@ -1,6 +1,8 @@
 # vscodSettings
 visual studio code settings (.vscode)
 
+put .vscode directory to your working directory.
+
 since trying to use msvc on vscode was little tricky,
 and the official setting did not work for me, so
 I upload my setting as my note.
